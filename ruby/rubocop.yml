@@ -1,0 +1,8 @@
+Style/SpaceInsideHashLiteralBraces:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Style/NumericLiterals:
+  Enabled: false
